@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+### This is a new List
+- Kofi
+- Ama
+
+### Another list
+1. Amina
+2. Adjoa
